@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=DustyAdri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=DustyAdri&theme=dark&hide_border=false)<br/>
 <p align="center">
-  <img src="https://github-readme-stats-personal-nine.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide=html,css&count_private=true&theme=react" alt="Top Langs" />
+  <img src="https://github-readme-stats-personal-nine.vercel.app/api/top-langs/?username=DustyAdri&layout=compact&hide=html,css&count_private=true&theme=react" alt="Top Langs" />
 </p>
 
 ---
