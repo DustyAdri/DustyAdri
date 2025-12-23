@@ -7,10 +7,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adrian.cauguiran.39/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/math_pt_cauguiran)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DustyAdri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DustyAdri&theme=dark&hide_border=false)<br/>
 <p align="center">
-  <img src="https://github-readme-stats-personal-nine.vercel.app/api/top-langs/?username=DustyAdri&layout=compact&hide=html,css&count_private=true&theme=react" alt="Top Langs" />
+  <img src="https://github-readme-stats-personal-nine.vercel.app/api?username=DustyAdri&show_icons=true&theme=react&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-personal-nine.vercel.app/api/top-langs/?username=DustyAdri&layout=compact&hide=html,css,tex&count_private=truet&exclude_repo=github-readme-stats-personal,github-readme-stats&theme=react" alt="Top Langs" />
 </p>
 
 ---
