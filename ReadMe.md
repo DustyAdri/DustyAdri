@@ -42,7 +42,7 @@
   
 ### You can connect with me through
 <div align="center">
-  <a href="https://instagram.com/math_pt_caugiran">
+  <a href="https://instagram.com/math_pt_caugiran/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
 
