@@ -42,8 +42,13 @@
   
 ### You can connect with me through
 <div align="center">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/math_pt_cauguiran" />
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/adrian.cauguiran.39/" />
+  <a href="https://instagram.com/math_pt_caugiran">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/adrian.caugiran.39/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
 </div>
 
 ### GitHub Stats:
